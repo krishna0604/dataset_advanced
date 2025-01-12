@@ -1,0 +1,108 @@
+registration_id,name,email,phone,age,income_group,active,city,province,hobby,fav_movie,website_visit_count,website_recency,website_purchase_rate,website_purchase_amount,website_cs_call_count,accept_campaign_1,accept_campaign_2,accept_campaign_3,accept_campaign_4,accept_campaign_5
+RK20202344,Fakhrul Fandy Widyaningtias,fakhrulfandywidyaningtias@outlook.com,6285244454,27,2,FALSE,Tanjungpinang,Kepulauan Riau,Amateur radio,The Shawshank Redemption,51,75,0.68,612000,1,TRUE,FALSE,TRUE,TRUE,FALSE
+RK20202345,Ferdiansyah Amalina,ferdiansyahamalina@yahoo.com,6285244688,31,3,TRUE,Bogor,Jawa Barat,Animation,The Godfather,88,3,0.51,51000,3,TRUE,FALSE,FALSE,TRUE,FALSE
+RK20202346,Ficky Rizkyananta,fickyrizkyananta@hotmail.com,6285244922,15,1,TRUE,Kota Administrasi Jakarta Pusat,Jakarta,Anime,The Godfather: Part II,30,19,0.69,276000,1,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202347,Singgih Kharisma,singgihkharisma@hotmail.com,6285245156,49,4,TRUE,Metro,Lampung,Aquascaping,The Dark Knight,63,7,0.8,3200,3,FALSE,TRUE,TRUE,TRUE,TRUE
+RK20202348,Jeremiah Dinanti,jeremia@rakamin.com,6285245390,25,2,FALSE,Malang,Jawa Timur,Art,12 Angry Men,99,81,0.15,105000,2,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202349,Ridhwan Noerani,ridhwannoerani@hotmail.com,6285245624,43,4,FALSE,Kota Administrasi Jakarta Pusat,Jakarta,Astrology,Schindler's List,17,82,0.41,164000,3,FALSE,TRUE,FALSE,FALSE,TRUE
+RK20202350,Okky Oktaviaman,okkyoktaviaman@roketmail.com,6281906358,35,3,TRUE,Surakarta,Jawa Tengah,Fashion design,The Lord of the Rings: The Return of the King,5,19,0.68,68000,1,FALSE,TRUE,TRUE,FALSE,FALSE
+RK20202351,Dikposa Yosua Krisnanto,dikposayosuakrisnanto@hotmail.com,6281907247,28,2,FALSE,Kota Administrasi Jakarta Pusat,Jakarta,Fingerpainting,The Lord of the Rings: The Fellowship of the Ring,70,57,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202351,Dikposa Yosua Krisnanto,dikposayosuakrisnanto@hotmail.com,6281907247,28,2,FALSE,Kota Administrasi Jakarta Pusat,Jakarta,Fingerpainting,The Lord of the Rings: The Fellowship of the Ring,70,57,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202352,Dhanu Rahman,dhanurahman@gmail.com,6281908136,26,2,FALSE,Kota Administrasi Jakarta Selatan,Jakarta,Fingerpainting,Seven Samurai,18,93,0.25,175000,0,FALSE,TRUE,FALSE,TRUE,TRUE
+RK20202353,Bob Arisa,bobarisa@yahoo.com,6281909025,40,4,TRUE,Salatiga,Jawa Tengah,Manga,Se7en,98,13,0.98,196000,0,FALSE,TRUE,TRUE,TRUE,TRUE
+RK20202354,Omar Afini,omarafini@gmail.com,6281909914,48,3,TRUE,Batam,Kepulauan Riau,Mechanics,The Silence of the Lambs,100,2,0.64,576000,2,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202355,Sutrisno Rizal,sutrisnorizal@outlook.com,6281910803,36,4,TRUE,Banjarbaru,Kalimantan Selatan,Model building,,33,15,0.7,4900000,3,TRUE,TRUE,FALSE,TRUE,FALSE
+RK20202356,Hilman Azalia,hilmanazalia@hotmail.com,6281911692,17,1,FALSE,Metro,Lampung,Music,,66,77,0.1,7000,0,TRUE,TRUE,TRUE,TRUE,FALSE
+RK20202357,Lintang Bertauli,lintangbertauli@gmail.com,,33,3,TRUE,Tanjungpinang,Kepulauan Riau,Reading,,30,5,0.77,693000,0,TRUE,TRUE,FALSE,TRUE,TRUE
+RK20202358,Reynard Ramadhansyah,reynardramadhansyah@gmail.com,6289623545,34,3,TRUE,Kota Administrasi Jakarta Utara,Jakarta,Singing,,98,18,0.6,120000,0,FALSE,FALSE,FALSE,TRUE,TRUE
+RK20202359,Kevin Ningsih,kevinningsih@roketmail.com,6289624758,49,4,FALSE,Kota Administrasi Jakarta Timur,Jakarta,Sudoku,Saving Private Ryan,29,74,0.11,88000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202360,Rifqy Butar-butar,rifqybutar-butar@yahoo.com,6289625971,30,3,TRUE,Semarang,Jawa Tengah,,Interstellar,19,21,0.74,666000,3,FALSE,TRUE,FALSE,TRUE,TRUE
+RK20202361,Wahyu Hayati,wahyuhayati@gmail.com,6289627184,23,1,TRUE,Cirebon,Jawa Barat,Video editing,Spirited Away,49,13,0.73,2920,0,FALSE,TRUE,FALSE,TRUE,TRUE
+RK20202362,Andi Mayasopha,andimayasopha@yahoo.com,6289628397,36,2,TRUE,Magelang,Jawa Tengah,Video making,The Green Mile,50,7,0.72,72000,0,FALSE,FALSE,TRUE,TRUE,TRUE
+RK20202363,Yutama Riahdita,yutamariahdita@gmail.com,6289629610,48,3,FALSE,Banjarbaru,Kalimantan Selatan,VR Gaming,Parasite,9,65,0.33,198000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202364,Haikal Nurahmadhita,haikalnurahmadhita@roketmail.com,6289630823,37,4,TRUE,Depok,Jawa Barat,Practical jokes,Léon: The Professional,12,30,0.55,5500,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202365,Thomas Geryance,thomasgeryance@roketmail.com,6289632036,40,4,TRUE,Sungai Penuh,Jambi,Rapping,Back to the Future,30,23,0.51,357000,0,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202366,Muhamad Pramanda,muhamadpramanda@outlook.com,6289633249,16,2,TRUE,Depok,Jawa Barat,Skipping rope,Psycho,16,6,0.88,792000,0,TRUE,FALSE,FALSE,FALSE,TRUE
+RK20202367,Ramanta Pasha,ramantapasha@gmail.com,,49,4,TRUE,Sungai Penuh,Jambi,Stand-up comedy,The Lion King,92,18,0.65,1300000,0,FALSE,FALSE,TRUE,TRUE,FALSE
+RK20202368,Sakti Hasaniy,saktihasaniy@outlook.com,6287832669,31,3,TRUE,Bontang,Kalimantan Timur,Storytelling,Modern Times,92,15,0.65,260000,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202369,Rian Mufti,rianmufti@outlook.com,6287832903,24,2,TRUE,Pontianak,Kalimantan Barat,Writing,American History X,20,16,0.5,50000,1,TRUE,TRUE,FALSE,FALSE,TRUE
+RK20202370,Doni Teddo Prasetyani,doniteddoprasetyani@yahoo.com,6287833137,30,3,TRUE,Batam,Kepulauan Riau,Yoga,Grave of the Fireflies,79,30,0.61,305000,3,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202371,Fahmi Haq,fahmi@yahoo.com,6287833371,17,1,TRUE,Depok,Jawa Barat,Fashion design,City Lights,76,12,0.89,623000,3,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202372,Rheza Novianti,rhezanovianti@yahoo.com,6287833605,26,1,TRUE,Tegal,Jawa Tengah,,Whiplash,76,30,0.97,485000,0,TRUE,TRUE,TRUE,TRUE,FALSE
+RK20202373,Herdaru Junaidi,herdarujunaidi@outlook.com,6287833839,50,5,TRUE,Sukabumi,Jawa Barat,Gardening,Gladiator,61,1,0.67,13400,3,TRUE,TRUE,FALSE,TRUE,FALSE
+RK20202374,Eka Tiodimar,ekatio@yahoo.com,,,5,TRUE,Kota Administrasi Jakarta Utara,Jakarta,Magic,The Departed,85,27,0,0,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202375,Sebastian Mitsuko,sebastianmitsuko@roketmail.com,6287834307,44,4,TRUE,Bandar Lampung,Lampung,Manga,The Intouchables,20,17,0.54,378000,0,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202376,Rinaldy Octaza,rinaldyoctaza@outlook.com,6287834541,35,4,TRUE,Malang,Jawa Timur,Mechanics,The Prestige,43,26,0.95,9500000,0,FALSE,FALSE,TRUE,FALSE,TRUE
+RK20202377,Ismail Wardhani,ismailwardhani@hotmail.com,6287834775,18,1,TRUE,Bandung,Jawa Barat,Model building,,6,19,0.92,828000,0,FALSE,FALSE,TRUE,FALSE,FALSE
+RK20202378,Alfin Chairunisa,alfinchairunisa@gmail.com,628445557,20,2,TRUE,Bontang,Kalimantan Timur,Music,,73,6,0.83,332000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202379,Revi Aswin Fatimah,reviaswinfatimah@roketmail.com,6287857786,21,2,TRUE,Depok,Jawa Barat,Reading,,45,13,0.53,265000,0,TRUE,TRUE,TRUE,TRUE,FALSE
+RK20202380,Faishal Listisni,faishallistisni@outlook.com,6287858020,23,2,TRUE,Batam,Kepulauan Riau,Singing,,74,3,0.74,296000,2,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202381,Jova Imania,jovaimania@gmail.com,628468802,17,1,TRUE,Depok,Jawa Barat,Air sports,,25,12,0.89,534000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202381,Jova Imania,jovaimania@gmail.com,628468802,17,1,TRUE,Depok,Jawa Barat,Air sports,,25,12,0.89,534000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202382,Izhar Halim,izharhalim@gmail.com,6287881031,32,3,TRUE,Kota Administrasi Jakarta Selatan,Jakarta,Astronomy,Memento,36,14,0.77,77000,3,TRUE,FALSE,FALSE,TRUE,TRUE
+RK20202383,Garin Sugiyanto,garinsugiyanto@yahoo.com,6287881265,33,3,TRUE,Purwokerto,Jawa Tengah,Badminton,The Great Dictator,21,18,0.67,134000,3,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202383,Garin Sugiyanto,garinsugiyanto@yahoo.com,6287881265,33,3,TRUE,Purwokerto,Jawa Tengah,Badminton,The Great Dictator,21,18,0.67,134000,3,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202384,Edy Fitriyah,edyfitriyah@roketmail.com,6287883533,19,1,TRUE,Salatiga,Jawa Tengah,Baseball,The Lives of Others,38,26,0.94,470000,0,TRUE,TRUE,TRUE,FALSE,FALSE
+RK20202385,Geraldi Lalo,geraldilalo@hotmail.com,6287885801,50,5,TRUE,Tarakan,Kalimantan Utara,Basketball,Django Unchained,41,30,0.61,122000,3,FALSE,FALSE,TRUE,FALSE,FALSE
+RK20202386,Yusuf Tilasnuari,yusuftilasnuari@hotmail.com,6287888069,31,3,TRUE,Malang,Jawa Timur,Camping,Paths of Glory,33,30,0.98,98000,0,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202387,Lukman Naufal Simorangkir,lukmannaufalsimorangkir@gmail.com,6287890337,20,2,TRUE,Kota Administrasi Jakarta Utara,Jakarta,Climbing,Sunset Blvd.,44,16,0.9,180000,0,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202388,Maruto Asih,marutoasih@yahoo.com,6287892605,47,3,TRUE,Tanjungpinang,Kepulauan Riau,Driving,Avengers: Infinity War,62,24,0.78,78000,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202389,Azrul Satria,azrulsatria@yahoo.com,6287894873,27,1,TRUE,Blitar,Jawa Timur,Farming,Witness for the Prosecution,74,21,0.52,1040000,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202390,Anton Fikri,antonfikri@hotmail.com,6287897141,38,2,TRUE,Blitar,Jawa Timur,Fishing,The Shining,69,22,0.83,6640000,0,TRUE,FALSE,FALSE,TRUE,FALSE
+RK20202391,Anugrah Sastra,anugrahsastra@outlook.com,6287899409,35,2,TRUE,Cirebon,Jawa Barat,Ghost hunting,Spider-Man: Into the Spider-Verse,14,1,0.66,462000,0,TRUE,FALSE,FALSE,TRUE,TRUE
+RK20202392,Sigit Amalia,sigitamalia@roketmail.com,6287892844,48,4,TRUE,Madiun,Jawa Timur,Air sports,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,100,6,0.75,450000,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202392,Sigit Amalia,sigitamalia@roketmail.com,6287892844,48,4,TRUE,Madiun,Jawa Timur,Air sports,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,100,6,0.75,450000,0,FALSE,FALSE,FALSE,FALSE,FALSE
+RK20202393,Rizki Faishal Apriyani,rizkifaishalapriyani@roketmail.com,6287886279,42,4,TRUE,Kediri,Jawa Timur,Astronomy,Oldboy,58,6,1,1000000,0,FALSE,TRUE,TRUE,TRUE,FALSE
+RK20202394,Athirah Atsila,athirahatsila@yahoo.com,6287879714,47,4,TRUE,Banjarbaru,Kalimantan Selatan,Backpacking,,94,2,0.91,819000,1,TRUE,TRUE,TRUE,TRUE,FALSE
+RK20202395,Indah Khairunisa,indahkhairunisa@roketmail.com,6287873149,40,4,TRUE,Salatiga,Jawa Tengah,Badminton,,24,25,0.82,246000,0,TRUE,FALSE,TRUE,FALSE,FALSE
+RK20202396,Dela Harkart,delaharkart@outlook.com,6287866584,39,3,TRUE,Bogor,Jawa Barat,Baseball,,97,27,0.97,485000,3,TRUE,FALSE,FALSE,TRUE,TRUE
+RK20202397,Anindyanti Bayhacki,anindyantibayhacki@yahoo.com,6287860019,21,2,TRUE,Cimahi,Jawa Barat,Basketball,Coco,96,30,0.55,4950000,1,FALSE,TRUE,TRUE,FALSE,TRUE
+RK20202398,Anastasia Primanelza,anastasiaprimanelza@roketmail.com,6287853454,40,4,TRUE,Tasikmalaya,Jawa Barat,Camping,Aliens,99,6,0.83,166000,0,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202399,Anna Usra,annausra@roketmail.com,6287846889,42,4,TRUE,Kediri,Jawa Timur,Climbing,Once Upon a Time in America,33,14,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE
+RK20202400,Rianita Santi,rianitasanti@yahoo.com,6287840324,15,1,TRUE,Pontianak,Kalimantan Barat,Driving,Avengers: Endgame,43,24,0.77,77000,3,FALSE,TRUE,FALSE,FALSE,TRUE
+RK20202401,Nadia Persadani,nadiapersadani@roketmail.com,6287833759,25,2,TRUE,Surabaya,Jawa Timur,Farming,Capernaum,18,27,0.82,738000,0,FALSE,TRUE,FALSE,TRUE,TRUE
+RK20202402,Rayhana Hidayatul,rayhanahidayatul@hotmail.com,6287827194,25,2,TRUE,Palangkaraya,Kalimantan Tengah,Fishing,Das Boot,94,25,0.88,704000,0,FALSE,FALSE,TRUE,TRUE,TRUE
+RK20202403,Hanifa Ivangkia,hanifaivangkia@gmail.com,6287820629,47,4,TRUE,Surabaya,Jawa Timur,Ghost hunting,High and Low,68,8,0.85,6800000,0,TRUE,TRUE,TRUE,FALSE,FALSE
+RK20202404,Amadea Octaza,amadeaoctaza@roketmail.com,6287814064,17,1,TRUE,Cirebon,Jawa Barat,Hunting,3 Idiots,98,1,0.76,760000,0,FALSE,FALSE,TRUE,FALSE,FALSE
+RK20202405,Auzy Narendra,auzynarendra@outlook.com,6287807499,35,3,TRUE,Balikpapan,Kalimantan Timur,Kitesurfing,American Beauty,22,15,0.94,376000,0,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202406,Rocitha Mufti,rocithamufti@roketmail.com,6285347733,33,3,TRUE,Tanjungpinang,Kepulauan Riau,Museum visiting,Toy Story,63,20,0.52,52000,0,FALSE,FALSE,TRUE,FALSE,TRUE
+RK20202407,Amalia Widi Abelardo,amaliawidiabelardo@outlook.com,6285341168,17,1,TRUE,Kota Administrasi Jakarta Selatan,Jakarta,Parkour,Amadeus,47,4,0.78,468000,0,FALSE,FALSE,TRUE,TRUE,FALSE
+RK20202408,Puspa Fariza,puspafariza@yahoo.com,6285334603,34,3,TRUE,Blitar,Jawa Timur,Running,,45,28,0.83,83000,0,TRUE,FALSE,TRUE,FALSE,FALSE
+RK20202409,Clara Amira,claraamira@hotmail.com,6285328038,35,3,TRUE,Banjarbaru,Kalimantan Selatan,,,15,0,0.7,490000,0,TRUE,TRUE,FALSE,FALSE,FALSE
+RK20202410,Hilary Adha,hilaryadha@yahoo.com,6285321473,15,1,TRUE,Bogor,Jawa Barat,Swimming,,42,8,0,0,0,TRUE,FALSE,FALSE,FALSE,TRUE
+RK20202411,Reny Oktavianty,renyoktavianty@gmail.com,6285314908,30,3,TRUE,Balikpapan,Kalimantan Timur,Taekwondo,,62,9,0.54,216000,0,TRUE,FALSE,TRUE,FALSE,TRUE
+RK20202412,Salsabila Resa,salsabilaresa@hotmail.com,6285308343,32,3,TRUE,Banjar,Jawa Barat,Tennis,,34,1,0.61,122000,2,TRUE,TRUE,TRUE,TRUE,TRUE
+RK20202413,Fathina Narimanda,fathinanarimanda@yahoo.com,6285301778,24,2,TRUE,Banjarmasin,Kalimantan Selatan,Vacation,,62,27,0.67,402000,0,FALSE,TRUE,FALSE,FALSE,TRUE
+RK20202414,Moerdiati Ramsihs,moerdiatiramsihs@roketmail.com,6285295213,16,1,TRUE,Banjar,Jawa Barat,Videography,,13,30,0.91,182000,0,TRUE,FALSE,TRUE,TRUE,TRUE
+RK20202415,Bella Listyani,bellalistyani@hotmail.com,6285288648,45,4,TRUE,Pasuruan,Jawa Timur,Walking,,94,24,0.66,462000,0,FALSE,TRUE,FALSE,FALSE,TRUE
+RK20202416,Natasha Fadholi,natashafadholi@gmail.com,6285282083,49,4,TRUE,Bandung,Jawa Barat,Water sports,,68,27,0.87,696000,0,FALSE,TRUE,FALSE,TRUE,FALSE
+RK20202417,Berty Yulianti,bertyyulianti@gmail.com,6285275518,22,2,TRUE,Salatiga,Jawa Tengah,Zoo visiting,Eternal Sunshine of the Spotless Mind,19,17,0.56,504000,0,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202418,June Andjani,juneandjani@gmail.com,6285268953,45,4,TRUE,Blitar,Jawa Timur,Kitesurfing,Bicycle Thieves,17,3,0.93,186000,0,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202419,Kautsar Jaelani,kautsarjaelani@yahoo.com,6285262388,29,2,TRUE,Palangkaraya,Kalimantan Tengah,Museum visiting,City Lights,99,17,0.72,144000,0,FALSE,FALSE,FALSE,TRUE,TRUE
+RK20202420,Amanda Idayu,amandaidayu@yahoo.com,6285255823,17,1,TRUE,Batu,Jawa Timur,Parkour,Whiplash,84,16,1,600000,0,TRUE,FALSE,TRUE,FALSE,FALSE
+RK20202421,Ovienov Asti Idrus,ovienovastiidrus@outlook.com,6285249258,15,1,TRUE,Bontang,Kalimantan Timur,Running,Gladiator,11,12,0.65,325000,0,TRUE,TRUE,FALSE,TRUE,TRUE
+RK20202422,Saliha Husein,salihahusein@outlook.com,6285242693,49,4,TRUE,Kota Administrasi Jakarta Barat,Jakarta,Soccer,The Departed,70,5,0,0,0,TRUE,FALSE,TRUE,FALSE,FALSE
+RK20202423,Yosia Jaya,yosiajaya@yahoo.com,6285236128,22,2,TRUE,Samarinda,Kalimantan Timur,Swimming,,22,19,0.7,70000,3,TRUE,FALSE,FALSE,FALSE,TRUE
+RK20202424,Desi Fauziyah,desifauziyah@outlook.com,6285229563,34,3,TRUE,Semarang,Jawa Tengah,Taekwondo,,5,23,0.67,201000,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202425,Tresna Rianita Prasojo,tresnarianitaprasojo@yahoo.com,6285222998,44,4,TRUE,Mojokerto,Jawa Timur,Tennis,,9,17,0.9,630000,0,FALSE,TRUE,TRUE,FALSE,FALSE
+RK20202426,Rarahayu Verev,rarahayuverev@outlook.com,6285216433,15,1,TRUE,Tegal,Jawa Tengah,Vacation,,60,25,0.72,648000,0,TRUE,TRUE,TRUE,FALSE,TRUE
+RK20202427,Janiar Satria,janiarsatria@outlook.com,6285209868,17,1,TRUE,Cimahi,Jawa Barat,Videography,,50,3,0.88,7040000,0,TRUE,FALSE,TRUE,TRUE,TRUE
+RK20202428,Retno Maulinda,retnomaulinda@roketmail.com,6285203303,28,2,TRUE,Balikpapan,Kalimantan Timur,Walking,,12,28,0.87,261000,0,FALSE,FALSE,TRUE,FALSE,TRUE
+RK20202429,Nina Yulia,ninayulia@rocketmail.com,6283641555,44,4,TRUE,Surabaya,Jawa Timur,Water sports,,57,22,0.73,73000,0,TRUE,TRUE,TRUE,FALSE,FALSE
+RK20202430,Dyah Fauziah,dyahfauziah@gmail.com,6282853510,42,4,TRUE,Pekalongan,Jawa Tengah,,,41,28,0.74,666000,0,FALSE,TRUE,FALSE,FALSE,FALSE
+RK20202431,Prima Hermawan,primahermawan@rocketmail.com,6281855949,50,5,TRUE,Singkawang,Kalimantan Barat,Ghost hunting,,46,10,0.65,520000,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202431,Prima Hermawan,primahermawan@rocketmail.com,6281855949,50,5,TRUE,Singkawang,Kalimantan Barat,Ghost hunting,,46,10,0.65,520000,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202431,Prima Hermawan,primahermawan@rocketmail.com,6281855949,50,5,TRUE,Singkawang,Kalimantan Barat,Ghost hunting,,46,10,0.65,520000,0,TRUE,FALSE,FALSE,FALSE,FALSE
+RK20202432,Firman Reza,firmanreza@gmail.com,6286084071,28,2,TRUE,Batam,Kepulauan Riau,Ghost hunting,The Hunt,40,0,0.8,400000,0,FALSE,FALSE,TRUE,TRUE,FALSE
+RK20202433,Eva Khuadeva,evakhuadeva@rakamin.com,6286453280,26,2,TRUE,Samarinda,Kalimantan Timur,Parkour,Requiem for a Dream,97,5,0.68,204000,2,FALSE,FALSE,FALSE,TRUE,FALSE
+RK20202434,Bagus Maulana,bagusmaulana@outlook.com,6288952814,54,3,TRUE,Batam,Kepulauan Riau,Running,It's a Wonderful Life,52,0,0.64,1280000,2,FALSE,FALSE,TRUE,TRUE,FALSE
+RK20202435,Citra Citata,citracitata@facebook.com,6286801133,46,4,TRUE,Palangkaraya,Kalimantan Tengah,Soccer,,95,18,0.8,7200000,2,TRUE,FALSE,TRUE,FALSE,TRUE
+RK20202436,Yuni Bukan Sara,yunibukansara@yahoo.com,6288425835,30,3,TRUE,Bekasi,Jawa Barat,Swimming,,64,25,0.53,424000,0,TRUE,TRUE,TRUE,FALSE,FALSE
+RK20202437,Putu Adinda,putuadinda@yahoo.com,6288323209,38,3,TRUE,Tasikmalaya,Jawa Barat,Taekwondo,,23,12,0.85,850000,0,FALSE,TRUE,TRUE,TRUE,FALSE
+RK20202438,Nurul Latifa,nurullatifa@ymail.com,6288887525,34,3,TRUE,Pekalongan,Jawa Tengah,Tennis,Spirited Away,61,21,0.68,5440000,0,FALSE,FALSE,FALSE,TRUE,FALSE
+RK20202439,Fajar Gusti,fajargusti@hotmail.com,6283154754,54,5,TRUE,Singkawang,Kalimantan Barat,,The Green Mile,76,4,0.52,52000,0,FALSE,FALSE,TRUE,TRUE,FALSE
+RK20202440,Amalia Azizah Putriana,amaliaazizahputriana@yahoo.com,6283542399,57,5,TRUE,Kota Administrasi Jakarta Barat,Jakarta,Videography,Parasite,44,19,0.99,99000,0,TRUE,FALSE,FALSE,FALSE,TRUE
+RK20202441,Didin Suherdin,didinsuherdin@yahoo.com,6281082175,44,4,TRUE,Banjarmasin,Kalimantan Selatan,Water sports,,81,22,0.73,2190000,0,FALSE,TRUE,FALSE,TRUE,TRUE
+RK20202442,Amelia Sari Putri,ameliasariputri@ymail.com,6284593629,32,3,TRUE,Batam,Kepulauan Riau,Zoo visiting,,9,1,0.82,574000,1,FALSE,FALSE,FALSE,TRUE,TRUE
+RK20202443,Puspita Amalia,puspitaamalia@hotmail.com,6288689545,27,2,TRUE,Samarinda,Kalimantan Timur,Ghost hunting,Saving Private Ryan,68,13,0.68,340000,2,FALSE,FALSE,TRUE,FALSE,FALSE
+RK20202444,Puspita Amalia,puspitaamaliaa@gmail.com,6281909511,27,2,TRUE,Samarinda,Kalimantan Timur,Ghost hunting,Interstellar,58,10,0.79,632000,3,FALSE,TRUE,TRUE,TRUE,FALSE
